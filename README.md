@@ -2,7 +2,7 @@
 
 ## About Me
 2nd-year CSD-C student at CVR College of Engineering.  
-Passionate about **coding, problem-solving, and mathematics**.  
+Passionate about **coding, problem-solving, and system design**.  
 Focused on building a strong foundation in **DSA and Competitive Programming**.
 
 ---
@@ -15,11 +15,11 @@ Focused on building a strong foundation in **DSA and Competitive Programming**.
 ---
 
 ## Competitive Programming
-- **LeetCode:** Solved **470+ problems** (300+ in C, now shifting to Java)  
-  - Maintained a **150+ day streak** with **180+ active days**  
-  - Regularly post **daily question solutions** (35+ so far) with beginner-friendly explanations  
-- **HackerRank:** Active participant ([Profile](https://www.hackerrank.com/shashankreddy986))  
-- Participated in **8+ LeetCode contests**  
+- **LeetCode:** Solved **800+ problems**
+  - Maintained a **365+ day streak**
+  - Regularly post **daily question solutions** with beginner-friendly explanations  
+- **Codeforces:** Active participant ([Profile]((https://codeforces.com/profile/shashankreddy9848))) 
+- Participated in **45+ LeetCode contests**  
 - Strong grasp of **Data Structures and Algorithms**
 
 ---
