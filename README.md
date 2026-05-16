@@ -1,7 +1,7 @@
 # Bokka Shashank Reddy
 
 ## About Me
-2nd-year CSD-C student at CVR College of Engineering.  
+Computer Science student at CVR College of Engineering.  
 Passionate about **coding, problem-solving, and system design**.  
 Focused on building a strong foundation in **DSA and Competitive Programming**.
 
