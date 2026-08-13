@@ -21,13 +21,6 @@ Focused on building a strong foundation in **DSA and Competitive Programming**.
 - **Codeforces:** Active participant ([Profile]((https://codeforces.com/profile/shashankreddy9848))) 
 - Participated in **45+ LeetCode contests**  
 - Strong grasp of **Data Structures and Algorithms**
-
----
-
-## Hobbies
-- Playing badminton  
-- Solving math and logic-based problems  
-
 ---
 
 **Connect with me:**  
