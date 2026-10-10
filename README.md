@@ -1,4 +1,4 @@
-# Hi there, I'm Bokka Shashank Reddy 👋
+# Hi there, I'm Shashank 👋
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shashank-reddy-2b6b70354/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
